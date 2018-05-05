@@ -1,3 +1,4 @@
 file is created in CLI
 making changes in GUI 
 adding info to newB1 via GUI
+making changes in CLI and viewing in repo
